@@ -10,6 +10,3 @@
 *.so
 *.egg
 *.egg-info
-
-config_dd_math_resource.txt
-config_dd_math.txt
