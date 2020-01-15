@@ -1,0 +1,15 @@
+# 自定义
+/renaissancevenv
+/.vscode
+/.idea
+/venv
+/thomas2venv
+
+# python产生
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+config_dd_math_resource.txt
+config_dd_math.txt
